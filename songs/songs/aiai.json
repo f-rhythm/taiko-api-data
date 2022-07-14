@@ -12,8 +12,8 @@
                     "scorediff":950,
                     "donscore":"",
                     "donscore2p":"",
-                    "tja":"",
-                    "tja2p":""
+                    "tja":"https://raw.githubusercontent.com/f-rhythm/taiko-api-data/main/songs/songs/aiai/AC2-easy.tja",
+                    "tja2p":"https://raw.githubusercontent.com/f-rhythm/taiko-api-data/main/songs/songs/aiai/AC2-easy-2p.tja"
                 },
                 "AC3":{
                     "genre":"童謡",
@@ -24,8 +24,8 @@
                     "scorediff":950,
                     "donscore":"",
                     "donscore2p":"",
-                    "tja":"",
-                    "tja2p":""
+                    "tja":"https://raw.githubusercontent.com/f-rhythm/taiko-api-data/main/songs/songs/aiai/AC3-easy.tja",
+                    "tja2p":"https://raw.githubusercontent.com/f-rhythm/taiko-api-data/main/songs/songs/aiai/AC3-easy-2p.tja"
                 },
                 "CS2":{
                     "genre":"童謡",
@@ -36,8 +36,8 @@
                     "scorediff":950,
                     "donscore":"",
                     "donscore2p":"",
-                    "tja":"",
-                    "tja2p":""
+                    "tja":"https://raw.githubusercontent.com/f-rhythm/taiko-api-data/main/songs/songs/aiai/CS2-easy.tja",
+                    "tja2p":"https://raw.githubusercontent.com/f-rhythm/taiko-api-data/main/songs/songs/aiai/CS2-easy-2p.tja"
                 }
             }
         },
